@@ -8,6 +8,7 @@ import ExpoloreDot from "./components/ExploreDot";
 
 import "./App.css";
 import Footer from "./components/Footer";
+import YoutubeVideo from "./components/YoutubeVideo";
 
 const App = () => {
   return (
@@ -20,6 +21,7 @@ const App = () => {
       <ExpoloreDot />
       {/* <Resourse /> */}
       {/* <Secretary /> */}
+      <YoutubeVideo />
       <Footer />
     </div>
   );
