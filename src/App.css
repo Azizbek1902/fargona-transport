@@ -1,0 +1,85 @@
+.explore-dot {
+  width: 100%;
+  height: auto;
+  background-image: url("https://www.transportation.gov/themes/custom/transpo/images/bg_accent_triskelion.svg"),
+    linear-gradient(
+      to right,
+      #0a1f62,
+      #002d6d,
+      #003a76,
+      #00467e,
+      #005385,
+      #005988,
+      #015e8b,
+      #07648d,
+      #07648d,
+      #07648d,
+      #07648d,
+      #07648d
+    );
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.explore-card {
+  background: rgba(255, 255, 255, 0.251);
+  transition: 0.3s all;
+}
+.explore-card:hover {
+  background: #0a4faa8c;
+}
+.resourses-card p {
+  text-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.75);
+}
+.resourses-card {
+  transition: 0.3s all;
+}
+.resourses-card:hover .resourses-card-inside {
+  background: rgba(0, 0, 0, 0.523);
+}
+.mySwiper {
+  height: 95%;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltiptext {
+  font-size: 14px;
+  visibility: hidden;
+  width: 220px;
+  background-color: #fff;
+  color: #000;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 5px;
+  position: absolute;
+  z-index: 1;
+  top: 9px;
+  right: 110%;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent transparent transparent #fff;
+}
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+@media screen and (max-width: 950px) {
+}
+
+@media screen and (max-width: 768px) {
+  .tooltiptext {
+    display: none;
+  }
+}
