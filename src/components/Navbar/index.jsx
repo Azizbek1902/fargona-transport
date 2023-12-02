@@ -103,7 +103,7 @@ export default function Example() {
                     <FaTelegram size={32} className="mt-[2px] ml-[6px]" />
                   </a>
                   <a
-                    href="https://www.youtube.com/"
+                    href="https://www.youtube.com/@fargona-transport-boshreja"
                     className="bg-[#fff]  w-8 h-8 rounded-[50%] text-[#455CA1]"
                   >
                     <FiYoutube size={20} className="mt-[7px] ml-[7px]" />
@@ -197,7 +197,7 @@ export default function Example() {
                     <FaTelegram size={32} className="mt-[2px] ml-[6px]" />
                   </a>
                   <a
-                    href="https://www.youtube.com/"
+                    href="https://www.youtube.com/@fargona-transport-boshreja"
                     className="bg-[#fff]  w-8 h-8 rounded-[50%] text-[#455CA1]"
                   >
                     <FiYoutube size={20} className="mt-[7px] ml-[6px]" />
