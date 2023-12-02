@@ -24,7 +24,7 @@ function Footer() {
                 <FaTelegram size={20} className="mt-2 ml-[8.2px]" />
               </a>
               <a
-                href="https://www.youtube.com/"
+                href="https://www.youtube.com/@fargona-transport-boshreja"
                 className="bg-[#005F9F] cursor-pointer  w-9 h-9 rounded-[50%] text-white"
               >
                 <FiYoutube size={20} className="mt-2 ml-[8.2px]" />
