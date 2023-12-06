@@ -1,6 +1,5 @@
 {
-
-  "navbar-logo":" Transportion master plan of Fergana city",
+  "navbar-logo": " Transportion master plan of Fergana city",
 
   "navbar-text-1": "News",
   "navbar-text-2": "Master plan",
@@ -8,12 +7,12 @@
 
   "carusel-text": "Creation of a high-quality, fast tee, free-moving and safe transport system in the city of Fergana",
 
-  "carusel-hamkor-title":"Partner Organizations",
-  "hamkor-1":"Fergana Province Administration",
-  "hamkor-2":"Fergana Polytechnic Institute",
-  "hamkor-3":"Ministry of Transport",
-  "hamkor-4":"Fergana City Hall",
-  "hamkor-5":"FERGANA PROVINCE TRANSPORT DEPARTMENT",
+  "carusel-hamkor-title": "Partner Organizations",
+  "hamkor-1": "Fergana Province Administration",
+  "hamkor-2": "Fergana Polytechnic Institute",
+  "hamkor-3": "Ministry of Transport",
+  "hamkor-4": "Fergana City Hall",
+  "hamkor-5": "FERGANA PROVINCE TRANSPORT DEPARTMENT",
 
   "yangilik-title": "News",
   "yangilik-desc": "In Fergana, convenient tariffs and electronic payments are being introduced in public transport",
@@ -92,9 +91,8 @@
 
   "footer-left-title": "THE TRANSPORT MASTER PLAN",
   "footer-left-text1": "is the basis for the city's future fully digital transport system",
-  
 
   "footer-right-title": "FROM THE DEVELOPERS OF THE MASTER PLAN:",
-  "footer-right-text1": "Creating a perfect and regular transport system in cities is the main factor in the sustainable development of societys",
+  "footer-right-text1": "Creating a perfect and regular transport system in cities is the basis of sustainable development of society",
   "footer-btn-text": "SUBSCRIBE NOW"
 }
