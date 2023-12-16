@@ -1,6 +1,5 @@
 {
-
-  "navbar-logo":" Transportion master plan of Fergana city",
+  "navbar-logo": " Transportion master plan of Fergana city",
 
   "navbar-text-1": "News",
   "navbar-text-2": "Master plan",
@@ -8,15 +7,21 @@
 
   "carusel-text": "Creation of a high-quality, fast tee, free-moving and safe transport system in the city of Fergana",
 
-  "carusel-hamkor-title":"Partner Organizations",
-  "hamkor-1":"Fergana Province Administration",
-  "hamkor-2":"Fergana Polytechnic Institute",
-  "hamkor-3":"Ministry of Transport",
-  "hamkor-4":"Fergana City Hall",
-  "hamkor-5":"FERGANA PROVINCE TRANSPORT DEPARTMENT",
+  "carusel-hamkor-title": "Partner Organizations",
+  "hamkor-1": "Fergana Province Administration",
+  "hamkor-2": "Fergana Polytechnic Institute",
+  "hamkor-3": "Ministry of Transport",
+  "hamkor-4": "Fergana City Hall",
+  "hamkor-5": "FERGANA PROVINCE TRANSPORT DEPARTMENT",
 
   "yangilik-title": "News",
   "yangilik-desc": "In Fergana, convenient tariffs and electronic payments are being introduced in public transport",
+  "request": "Questionnaires",
+  "request-title": "Your vote in the survey is important to us",
+  "request-batafsil": "Go to survey",
+  "request1": "Traffic congestion questionnaire",
+  "request2": "Questionnaire for pupils and students",
+  "request3": "Questionnaire for local citizens",
   "matbout-1-title": "MATHBOUT MESSAGE",
   "matbuot-1-desc": "Within the framework of Transport Week-2023, it is necessary to develop cooperation between the Federal Service for Control in the Transport Sector of Russia and the Transport Control Inspection under the Ministry of Transport of the Republic of Uzbekistan in the feild of road transport and road transport, as well as railway transport, a memorandum was signed",
   "matbuot-1-year": "November 17, 2023",
@@ -92,7 +97,6 @@
 
   "footer-left-title": "THE TRANSPORT MASTER PLAN",
   "footer-left-text1": "is the basis for the city's future fully digital transport system",
-  
 
   "footer-right-title": "FROM THE DEVELOPERS OF THE MASTER PLAN:",
   "footer-right-text1": "Creating a perfect and regular transport system in cities is the main factor in the sustainable development of societys",
