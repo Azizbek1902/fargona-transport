@@ -8,6 +8,7 @@ import ExpoloreDot from "./components/ExploreDot";
 // import Secretary from "./components/Secretary";
 
 import "./App.css";
+import Images from "./components/Images";
 import Footer from "./components/Footer";
 import YoutubeVideo from "./components/YoutubeVideo";
 
@@ -24,6 +25,9 @@ const App = () => {
       {/* <Resourse /> */}
       {/* <Secretary /> */}
       <YoutubeVideo />
+      <Images />
+      <br />
+      <br />
       <Footer />
     </div>
   );
