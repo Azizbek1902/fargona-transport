@@ -5,38 +5,10 @@ import React from "react";
 import "swiper/css";
 import "swiper/css/pagination";
 
-// import required modules
-// import { Pagination } from "swiper/modules";
 import { useTranslation } from "react-i18next";
 const NewsRoom = () => {
   const { t } = useTranslation();
 
-  // const data = [
-  //   {
-  //     id: 1,
-  //     title: `${t("matbout-1-title")}`,
-  //     decs: `${t("matbuot-1-desc")}`,
-  //     day: `${t("matbuot-1-year")}`,
-  //   },
-  //   {
-  //     id: 2,
-  //     title: `${t("matbout-2-title")}`,
-  //     decs: `${t("matbuot-2-desc")}`,
-  //     day: `${t("matbuot-2-year")}`,
-  //   },
-  //   {
-  //     id: 3,
-  //     title: `${t("matbout-3-title")}`,
-  //     decs: `${t("matbuot-3-desc")}`,
-  //     day: `${t("matbuot-3-year")}`,
-  //   },
-  //   {
-  //     id: 4,
-  //     title: `${t("matbout-4-title")}`,
-  //     decs: `${t("matbuot-4-desc")}`,
-  //     day: `${t("matbuot-4-year")}`,
-  //   },
-  // ];
   return (
     <div>
       <div className=" flex justify-center mt-[80px]">

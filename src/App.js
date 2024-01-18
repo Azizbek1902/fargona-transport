@@ -22,8 +22,6 @@ const App = () => {
       <br />
       <br />
       <ExpoloreDot />
-      {/* <Resourse /> */}
-      {/* <Secretary /> */}
       <YoutubeVideo />
       <Images />
       <br />
