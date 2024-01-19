@@ -4,6 +4,7 @@ import React from "react";
 // Import Swiper styles
 import "swiper/css";
 import "swiper/css/pagination";
+import Img from "../../assets/images/photo_cleanup.jpg";
 
 import { useTranslation } from "react-i18next";
 const NewsRoom = () => {
@@ -19,40 +20,29 @@ const NewsRoom = () => {
             </h1>
             <p className="h-1 w-[90%] bg-[#FFC503] mt-6"></p>
           </div>
-          <div className="w-full border border-gray-400  p-10 rounded mt-10 ">
-            <h4 className="pb-5 text-[#133466] font-bold  text-[18px] md:text-[23px] text-center">
-              {t("yangilik-desc")}
-            </h4>
-            <p className=" pb-5 font-semibold text-justify text-gray-600 leading-8 text-[14px] md:text-[16px] w-[100%]">
-              {t("matbuot-1-desc")}
-            </p>
-          </div>
-          {/* <Swiper
-            spaceBetween={30}
-            pagination={{
-              clickable: true,
-            }}
-            modules={[Pagination]}
-            className="mySwiper "
-          >
-            <SwiperSlide>
-              <div className="grid lg:grid-cols-2 grid-cols-1 items-center gap-4 mt-20">
-                {data.map((item, i) => {
-                  return (
-                    <div key={i + 1}>
-                      <div className="w-full border p-10 rounded">
-                        <h4 className="pb-5 text-gray-500">{item.title}</h4>
-                        <p className=" pb-5 font-bold text-[#4d80cc] text-[14px] md:text-[18px] w-[90%]">
-                          {item.decs}
-                        </p>
-                        <h3 className="text-gray-500">{item.day}</h3>
-                      </div>
-                    </div>
-                  );
-                })}
+          <div className="w-full flex flex-col md:flex-row  gap-5 mt-10 ">
+            <div className="w-full lg:w-[600px]">
+              <h4 className="pb-5 text-[#133466] font-bold  text-[16px] md:text-[18px] lg:text-[20px]">
+                {t("yangilik-desc")}
+              </h4>
+              <div className="font-medium">
+                <span>{t("yangilik-desc-1")}</span>
+                <span>
+                  <a
+                    href="https://lex.uz/uz/docs/-6694131"
+                    target="_blank"
+                    className="font-medium text-[#6796E1] underline hover:no-underline"
+                  >
+                    {t("yangilik-qaror")}
+                  </a>
+                </span>
+                <span>{t("yangilik-desc-2")}</span>
               </div>
-            </SwiperSlide>
-          </Swiper> */}
+            </div>
+            <div>
+              <img src={Img} alt="rasm" />
+            </div>
+          </div>
         </div>
       </div>
       <div id="second"></div>

@@ -15,7 +15,11 @@
   "hamkor-5": "FARG'ONA VILOYATI TRANSPORT BOSHQARMASI",
 
   "yangilik-title": "Yangiliklar",
-  "yangilik-desc": "Fargʻonada jamoat transportida qulay tariflar va elektron to'lovlar joriy etilmoqda",
+  "yangilik-desc": "Endi transport boshqarmasi hodimlari ham haydovchini to'xtatishi mumkin",
+  "yangilik-desc-1": "O'zbekiston Respublikasi Vazirlar Mahkamasining O'zbekiston Respublikasi Transport vazirligi huzuridagi Transport nazorati inspeksiyasi faoliyatini tashkil etish chora-tadbirlari toʻgʻrisidagi ",
+  "yangilik-qaror": " 668-sonli ",
+  "yangilik-desc-2": " qaroriga asosan O'zbekiston Respublikasi Transport vazirligi huzuridagi Transport nazorati inspeksiyasi toʻgʻrisida Nizomi tasdiqlangan",
+
   "request": "So'rovnomalar",
   "request-title": "Sizning so'rovnomadagi ovozingiz biz uchun muhum",
   "request-batafsil": "So'rovnomaga o'tish",
@@ -81,7 +85,6 @@
 
   "image-title": "Ish jarayonidan",
   "image-title-2": "fotolavhalar",
-
 
   "resurs-title": "Resurslar",
   "resurs-desc": "Muayyan narsani qidiryapsizmi? Quyidagi manbalarni ko'rib chiqing transport departamenti tomonidan taklif etiladi.",
