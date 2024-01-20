@@ -63,7 +63,6 @@ const Survey = () => {
           </div>
         </div>
       </div>
-      <div id="second"></div>
     </div>
   );
 };
