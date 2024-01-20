@@ -22,6 +22,7 @@ const App = () => {
       <br />
       <br />
       <ExpoloreDot />
+      <div id="second"></div>
       <YoutubeVideo />
       <Images />
       <br />

@@ -20,12 +20,12 @@ const NewsRoom = () => {
             </h1>
             <p className="h-1 w-[90%] bg-[#FFC503] mt-6"></p>
           </div>
-          <div className="w-full flex flex-col md:flex-row  gap-5 mt-10 ">
+          <div className="w-full flex flex-col 2xl:justify-center lg:leading-8 xl:leading-10  md:flex-row  gap-5 mt-10 ">
             <div className="w-full lg:w-[600px]">
               <h4 className="pb-5 text-[#133466] font-bold  text-[16px] md:text-[18px] lg:text-[20px]">
                 {t("yangilik-desc")}
               </h4>
-              <div className="font-medium">
+              <div className="font-medium  xl:text-[18px]">
                 <span>{t("yangilik-desc-1")}</span>
                 <span>
                   <a
